@@ -1,2 +1,4 @@
-public/phaser-examples
-public/phaser-tutorial
+phaser-examples
+phaser-tutorial
+.DS_store
+.idea
