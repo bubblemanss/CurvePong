@@ -1,6 +1,5 @@
 # Website
-- <a href="http://l3ubbleman.github.io/LearnPhaser/pong">Pong game</a>
-- <a href="http://l3ubbleman.github.io/LearnPhaser">Phaser example game</a> 
+<a href="http://l3ubbleman.github.io/LearnPhaser">Pong Game</a> 
 
 # LearnHTML5
 - <a href="http://createjs.com/Home">CreateJS</a>
